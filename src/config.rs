@@ -114,8 +114,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["naitoab.com"];
-pub const RS_PUB_KEY: &str = "bGO5gzI72WvMfaDVJBjoqVRO+GQ7xi50OszZWKuyYuQ=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &[""];
+pub const RS_PUB_KEY: &str = "YuQ=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
